@@ -12,6 +12,8 @@
 
 ## Usage
 
+You can include the badge using GitHub raw and a URL to link the badge:
+
 ```
 [![](https://raw.githubusercontent.com/USCbiostats/badges/master/tommy-image-badge.svg)](https://image.usc.edu)
 ```
