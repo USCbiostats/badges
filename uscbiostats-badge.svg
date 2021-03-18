@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="117.73571"
+   height="20"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="uscbiostats-badge.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask925">
+      <rect
+         width="62.826794"
+         height="20"
+         rx="2.1418223"
+         fill="#ffffff"
+         id="rect927"
+         x="-4.7747511e-07"
+         y="0"
+         style="stroke-width:0.844951" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="653"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="4.8260032"
+     inkscape:cx="58.728874"
+     inkscape:cy="1.2606564"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g16"
+     inkscape:document-rotation="0" />
+  <linearGradient
+     id="b"
+     x2="0"
+     y2="41.952354"
+     gradientTransform="scale(1.7422799,0.47673129)"
+     x1="0"
+     y1="0"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#bbb"
+       stop-opacity=".1"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-opacity=".1"
+       id="stop4" />
+  </linearGradient>
+  <g
+     mask="url(#mask925)"
+     id="g16"
+     transform="scale(1.8739729,1)">
+    <path
+       fill="#555555"
+       d="M 0,0 H 43 V 20 H 0 Z"
+       id="path10"
+       style="fill:#990000;fill-opacity:1" />
+    <path
+       fill="#44cc11"
+       d="M 40.865498,0 H 109.22864 V 20 H 40.865498 Z"
+       id="path12"
+       style="stroke-width:1.02951;fill:#ffcc00;fill-opacity:1" />
+    <path
+       fill="url(#b)"
+       d="M 0,0 H 73.092743 V 20 H 0 Z"
+       id="path14"
+       style="fill:url(#b);stroke-width:0.911372" />
+  </g>
+  <g
+     id="g889"
+     style="font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff"
+     transform="translate(-19.943017,-0.49584961)">
+    <text
+       x="116.5"
+       y="15"
+       fill="#010101"
+       fill-opacity="0.3"
+       id="text22">IMAGE</text>
+    <text
+       x="116.5"
+       y="14"
+       id="text24">IMAGE</text>
+  </g>
+  <g
+     id="g895"
+     style="font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff"
+     transform="translate(-17.943017,-0.39916992)">
+    <text
+       x="21.5"
+       y="15"
+       fill="#010101"
+       fill-opacity="0.3"
+       id="text18"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans, Verdana, Geneva, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#010101;fill-opacity:0.3"><tspan
+         sodipodi:role="line"
+         id="tspan885"
+         x="21.5"
+         y="15">USC Biostats</tspan></text>
+    <text
+       x="21.5"
+       y="14"
+       id="text20"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans, Verdana, Geneva, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start"><tspan
+         sodipodi:role="line"
+         id="tspan883"
+         x="21.5"
+         y="14">USC Biostats</tspan></text>
+  </g>
+</svg>
