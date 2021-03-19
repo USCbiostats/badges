@@ -9,6 +9,7 @@
 | ![](tommy-image-badge.svg)       | IMAGE P01     |
 | ![](tommy-lasbest-badge.svg)     | LA's BEST     |
 | ![](tommy-uscbiostats-badge.svg) | Biostatistics |
+| ![](tommy-uscprevmed-badge.svg)  | Preventive Medicine |
 
 ## Usage
 
