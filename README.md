@@ -15,8 +15,22 @@
 
 You can include the badge using GitHub raw and a URL to link the badge:
 
+IMAGE:
+
 ```
-[![](https://raw.githubusercontent.com/USCbiostats/badges/master/tommy-image-badge.svg)](https://image.usc.edu)
+[![Integrative Methods of Analysis for Genetic Epidemiology](https://raw.githubusercontent.com/USCbiostats/badges/master/tommy-image-badge.svg)](https://image.usc.edu)
+```
+
+Biostatistics:
+
+```
+[![USC's Division of Biostatistics](https://raw.githubusercontent.com/USCbiostats/badges/master/tommy-uscbiostats-badge.svg)](https://preventivemedicine.usc.edu/divisions/biostatistics/)
+```
+
+Prevmed:
+
+```
+[![USC's Department of Preventive Medicine](https://raw.githubusercontent.com/USCbiostats/badges/master/tommy-uscprevmed-badge.svg)](https://preventivemedicine.usc.edu)
 ```
 
 
