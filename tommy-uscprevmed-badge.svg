@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="171.13728"
+   width="230.18785"
    height="20"
    version="1.1"
    id="svg28"
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,17 +116,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="833"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="4.5028208"
-     inkscape:cx="97.755879"
-     inkscape:cy="-8.5559187"
+     inkscape:zoom="3.1620872"
+     inkscape:cx="120.28808"
+     inkscape:cy="5.3050883"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g16"
+     inkscape:current-layer="svg28"
      inkscape:document-rotation="0" />
   <linearGradient
      id="b"
@@ -149,55 +149,55 @@
   <g
      mask="none"
      id="g16"
-     transform="scale(1.3624617,1)"
+     transform="scale(1.8325763,1)"
      clip-path="url(#clipPath878)">
     <path
        fill="#555555"
        d="M 0,0 H 43 V 20 H 0 Z"
        id="path10"
        style="fill:#990000;fill-opacity:1;filter:url(#filter852)"
-       transform="matrix(0.8757841,0,0,1.0014641,-0.01337025,-0.01464149)" />
+       transform="matrix(0.65421906,0,0,1.0043325,-0.03734486,-0.04332531)" />
     <path
        fill="#44cc11"
-       d="M 37.338098,0 H 127.23814 V 20 H 37.338098 Z"
+       d="M 27.167374,0 H 177.49951 V 20 H 27.167374 Z"
        id="path12"
-       style="fill:#808080;fill-opacity:1;stroke-width:1.18059" />
+       style="fill:#808080;fill-opacity:1;stroke-width:1.52667" />
     <path
        fill="url(#b)"
        d="M 0,0 H 85.588787 V 20 H 0 Z"
        id="path14"
        style="fill:url(#b);stroke-width:0.986204;filter:url(#filter1552)"
-       transform="matrix(1.5541451,0,0,0.99103963,0.09056845,0.08960372)" />
+       transform="matrix(1.4729204,0,0,0.99386878,0.04141725,0.06131227)" />
   </g>
   <g
      id="g889"
      style="font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff"
-     transform="translate(-5.9430123,-0.49584961)">
+     transform="matrix(0.82842645,0,0,0.82842645,-43.769463,0.4722676)">
     <text
        x="116.5"
        y="15"
        fill="#010101"
        fill-opacity="0.3"
        id="text22"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans, Verdana, Geneva, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.3"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans, Verdana, Geneva, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#010101;fill-opacity:0.3"><tspan
          sodipodi:role="line"
          id="tspan870"
          x="116.5"
-         y="15">Preventive Medicine</tspan></text>
+         y="15">Population and Public Health Sciences</tspan></text>
     <text
        x="116.5"
        y="14"
        id="text24"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans, Verdana, Geneva, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans, Verdana, Geneva, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start"><tspan
          sodipodi:role="line"
          id="tspan868"
          x="116.5"
-         y="14">Preventive Medicine</tspan></text>
+         y="14">Population and Public Health Sciences</tspan></text>
   </g>
   <g
      id="g895"
      style="font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff"
-     transform="translate(2.056987,-0.39916992)">
+     transform="translate(2.0569879,-0.39916992)">
     <text
        x="21.5"
        y="15"
@@ -222,7 +222,7 @@
   <g
      inkscape:label="Layer 1"
      id="layer1"
-     transform="matrix(0.28197448,0,0,0.2926703,1.6004547,0.50228563)">
+     transform="matrix(0.28197448,0,0,0.2926703,1.6004556,0.50228563)">
     <path
        style="fill:#640404;fill-opacity:1;stroke-width:1.02191"
        d="M 4.454071,64.496458 C 3.5335808,64.34321 3.1235754,63.93822 3.124064,63.182757 c 4.058e-4,-0.632517 0.2266776,-0.962196 1.2481002,-1.81842 4.5648927,-3.826628 6.9751188,-7.319376 7.7643738,-11.251639 0.254575,-1.268295 0.295183,-3.224285 0.11526,-5.547157 -0.37923,-4.895099 0.331075,-13.042993 1.570293,-18.013032 1.581486,-6.342706 4.892986,-12.281676 8.714865,-15.629555 5.059477,-4.4319975 11.250658,-6.7712718 18.787469,-7.0986532 6.914585,-0.30035 12.650747,1.2696763 18.228761,4.9893495 1.043421,0.6958028 2.548174,1.8219237 2.499518,1.8705807 -0.02304,0.02303 -0.379715,0.193925 -0.792863,0.379995 -2.640175,1.189046 -4.719206,3.09022 -5.893976,5.389749 -0.364492,0.713473 -0.823271,1.84863 -0.823271,2.037031 0,0.04032 0.324861,0.291761 0.721941,0.558756 0.439585,0.295565 0.804841,0.610703 0.933906,0.805731 0.290783,0.439418 0.336104,0.981536 0.122416,1.464592 -0.1831,0.413912 -1.525699,2.371555 -2.261556,3.297552 -0.263306,0.331356 -0.477999,0.648107 -0.477072,0.703888 9.21e-4,0.05579 0.334637,0.411237 0.741566,0.789898 l 0.739886,0.688472 1.242626,0.05339 c 1.382057,0.05936 2.100746,0.178878 2.908553,0.483701 1.009115,0.38078 1.706524,0.953188 2.094734,1.719282 0.912103,1.799949 -0.05622,4.127515 -2.639808,6.345378 -0.451762,0.387812 -1.042088,0.860752 -1.311838,1.050987 -0.311035,0.219345 -0.490455,0.402368 -0.490455,0.500296 0,0.08491 0.157193,0.375458 0.349331,0.645616 0.669816,0.941835 0.754111,1.310918 0.445164,1.94912 -0.230866,0.476921 -0.636953,0.786996 -1.422374,1.086098 -0.441385,0.168087 -0.73598,0.335197 -0.86848,0.49267 -0.217634,0.258659 -0.215574,0.304435 0.04559,1.011866 0.209219,0.566668 0.208555,0.878229 -0.003,1.369973 -0.162082,0.376757 -0.163827,0.405549 -0.03317,0.549781 0.206147,0.227794 0.240993,0.71906 0.08823,1.244412 -0.146788,0.504965 -0.09955,1.233782 0.166202,2.564109 0.175313,0.877459 0.121474,1.407232 -0.181705,1.7884 -0.254854,0.320427 -0.477377,0.444347 -2.615142,1.456456 -1.694933,0.802456 -2.737663,1.397504 -2.933866,1.674257 -0.375483,0.529643 -0.447633,0.933216 -0.454193,2.540482 -0.008,1.926863 -0.0023,1.913348 -1.110747,2.718752 -1.945021,1.413314 -6.415375,4.262226 -7.660194,4.881764 -0.629531,0.313303 -0.719799,0.335999 -1.322798,0.332298 -0.733857,-0.0044 -0.89221,-0.04934 -2.31355,-0.655302 -1.356167,-0.578183 -2.281528,-0.771204 -3.464455,-0.722652 -0.758843,0.03107 -1.401902,0.155971 -4.609742,0.894748 -5.451966,1.255622 -5.430122,1.251655 -6.935972,1.25981 -1.103295,0.0059 -1.532693,-0.08379 -1.83185,-0.38294 -0.254329,-0.254331 -0.288583,-0.770823 -0.06906,-1.041587 0.07619,-0.09397 1.184724,-0.697183 2.463429,-1.340466 4.037596,-2.031221 6.212662,-3.310248 6.838639,-4.021394 0.914328,-1.03873 1.617237,-3.190201 1.618763,-4.954709 6.44e-4,-0.730218 -0.0626,-0.82829 -0.579455,-0.8985 -1.579716,-0.214597 -3.420185,-1.297019 -4.181819,-2.459421 -0.125593,-0.19169 -0.122067,-0.237082 0.06485,-0.834862 0.404193,-1.292586 0.767782,-3.019821 0.768337,-3.649977 3.18e-4,-0.342703 -0.07998,-0.38938 -0.669904,-0.38938 -0.814135,0 -0.815103,0.0025 -1.491406,3.97745 -0.261733,1.538276 -0.586102,3.185656 -0.720822,3.660835 -1.374387,4.847605 -4.612297,8.568073 -9.303426,10.68995 -2.422764,1.095855 -5.5711926,1.883087 -8.4494155,2.112678 -1.1718084,0.09347 -1.4384474,0.0926 -2.035328,-0.0069 z"

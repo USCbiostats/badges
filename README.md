@@ -9,7 +9,7 @@
 | ![](tommy-image-badge.svg)       | IMAGE P01     |
 | ![](tommy-lasbest-badge.svg)     | LA's BEST     |
 | ![](tommy-uscbiostats-badge.svg) | Biostatistics |
-| ![](tommy-uscprevmed-badge.svg)  | Preventive Medicine |
+| ![](tommy-uscprevmed-badge.svg)  | Population and Public Health Sciences |
 
 ## Usage
 
@@ -27,10 +27,10 @@ Biostatistics:
 [![USC's Division of Biostatistics](https://raw.githubusercontent.com/USCbiostats/badges/master/tommy-uscbiostats-badge.svg)](https://preventivemedicine.usc.edu/divisions/biostatistics/)
 ```
 
-Prevmed:
+Population and Public Health Sciences (PPHS, used to be Preventive Medicine):
 
 ```
-[![USC's Department of Preventive Medicine](https://raw.githubusercontent.com/USCbiostats/badges/master/tommy-uscprevmed-badge.svg)](https://preventivemedicine.usc.edu)
+[![USC's Department of Population and Public Health Sciences](https://raw.githubusercontent.com/USCbiostats/badges/master/tommy-uscprevmed-badge.svg)](https://pphs.usc.edu)
 ```
 
 
